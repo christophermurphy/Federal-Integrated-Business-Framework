@@ -1,0 +1,30 @@
+Identifier,Function
+FFM.010,Budget Execution
+FFM.020,Financial Asset Information Management
+FFM.030,Payable Management
+FFM.040,Revenue Management
+FFM.050,Reimbursable Management
+FFM.060,Receivable Management
+FFM.070,Delinquent Debt Management
+FFM.080,Cost Management
+FFM.090,General Ledger Management
+FFM.100,Financial Reconciliation
+FFM.110,Financial / Performance Reporting
+HCM.010,Talent Acquisition Management
+HCM.020,Candidate Sourcing and Recruitment
+HCM.030,Candidate Assessment and Selection
+HCM.040,"Applicant Screening, Reciprocity, and Investigation Request"
+HCM.050,Vetting Adjudication
+HCM.060,New Hire In-Processing and Onboarding
+ACQ.010,Acquisition Planning
+ACQ.020,Acquisition Package Preparation
+ACQ.030,Source Selection
+ACQ.040,Contract Administration
+ACQ.050,Purchase Card Management
+GRM.010,Grant Program Administration
+GRM.020,Grant Pre-Award Management
+GRM.030,Grant Award Management
+GRM.040,Grant Post-Award Management and Closeout
+GRM.050,Grant Program Oversight
+GRM.060,Grant Recipient Oversight
+TRT.010,Travel and Expense Management
